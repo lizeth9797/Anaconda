@@ -6,7 +6,11 @@ commands
 ```
  conda config --set changeps1 true
  conda activate
+ jupyter-lab --ip=0.0.0.0
 ```
+http://0.0.0.0:8888/lab
+
+
 
 ### Exit
 ```
