@@ -17,3 +17,10 @@ http://0.0.0.0:8888/lab
  conda deactivate
  conda config --set changeps1 false
 ```
+
+
+#Packet Tracer
+```
+cd /opt/pt/bin
+./PacketTracer7 
+```
